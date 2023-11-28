@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1488 505" width="1488" height="505">
+	<title>my-logo (1)</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 219px;fill: #101820;font-weight: 300;font-family: "Quicksand-Light", "Quicksand" } 
+		.t1 { font-size: 289px;fill: #101820;font-weight: 400;font-family: "InriaSans-Regular", "Inria Sans" } 
+	</style>
+	<text id="D E S I G N S" style="transform: matrix(1.196,0,0,1,-19.868,441.813)" >
+		<tspan x="0" y="0" class="t0">D</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">E</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">S</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">I</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">G</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">N</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">S
+</tspan>
+	</text>
+	<text id="MAUI   CRUZ" style="transform: matrix(.961,0,0,1.049,-14.736,239.23)" >
+		<tspan x="0" y="0" class="t1">M</tspan><tspan  y="0" class="t1">A</tspan><tspan  y="0" class="t1">U</tspan><tspan  y="0" class="t1">I</tspan><tspan  y="0" class="t1"> </tspan><tspan  y="0" class="t1"> </tspan><tspan  y="0" class="t1"> </tspan><tspan  y="0" class="t1">C</tspan><tspan  y="0" class="t1">R</tspan><tspan  y="0" class="t1">U</tspan><tspan  y="0" class="t1">Z
+</tspan>
+	</text>
+</svg>

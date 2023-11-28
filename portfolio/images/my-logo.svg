@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1488 505" width="1488" height="505">
+	<title>my-logo</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 313px;fill: #101820;font-weight: 300;font-family: "Quicksand-Light", "Quicksand" } 
+		.t1 { font-size: 300px;fill: #101820;font-weight: bold;font-family: "Futura" } 
+		.t2 { font-size: 299px;fill: #101820;font-weight: bold;font-family: "Futura" } 
+	</style>
+	<text id="DESIGNS" style="transform: matrix(1.182,0,0,.972,-40.028,478)" >
+		<tspan x="0" y="0" class="t0">DESIGNS
+</tspan>
+	</text>
+	<text id="MAUI CRUZ" style="transform: matrix(.78,0,0,.972,-9,252)" >
+		<tspan x="0" y="0" class="t1">M</tspan><tspan  y="0" class="t1">A</tspan><tspan  y="0" class="t1">U</tspan><tspan  y="0" class="t1">I</tspan><tspan  y="0" class="t1"> </tspan><tspan  y="0" class="t1">C</tspan><tspan  y="0" class="t1">R</tspan><tspan  y="0" class="t1">U</tspan><tspan  y="0" class="t1">Z</tspan><tspan  y="0" class="t2">
+</tspan>
+	</text>
+</svg>
